@@ -9,7 +9,7 @@ const Data=[
     {
         imgsrc:web6,
         title:"Digital Illustration ",
-        content:"Anime. Anime (short for animation), is a style of artwork originating in Japan. ...."
+        content:"Digital illustration or computer illustration is the use of digital tools to produce images under the direct manipulation of the artist, usually through a pointing device such as a tablet or a mouse.."
 
     },
     {

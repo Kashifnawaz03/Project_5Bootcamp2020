@@ -1,5 +1,5 @@
   
-import web6 from '../src/images/W6.png'
+import web6 from '../src/images/W6.jpg'
 import web3 from '../src/images/W3.png'
 import web4 from '../src/images/W4.png'
 import web5 from '../src/images/W5.png'
